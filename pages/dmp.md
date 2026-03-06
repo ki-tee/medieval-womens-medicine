@@ -29,14 +29,14 @@ Outside of CollectionBuilder data is being stored on a Google Sheet and on a per
 
 ## Appendix A: Data Dictionary
 
-objectid – Identifier used to reference items within CollectionBuilder, it follows the naming convention object(0-20),
-filename – Name of the file including extension type given to match the objectid,
-title –  Descriptive name of an object as found in initial repository,
-creator – Title of persons responsible for object creation,
-date – Years that the object was made,
-description – Description of an object,
-location – Where the object is being held,
-source –  Link to what repository the object came from,
-format – Description of the format of the object and what it’s saved as,
-language – Three letter abbreviation of language the object is in (und = undetermined),
+objectid – Identifier used to reference items within CollectionBuilder, it follows the naming convention object(0-20)\
+filename – Name of the file including extension type given to match the objectid\
+title –  Descriptive name of an object as found in initial repository\
+creator – Title of persons responsible for object creation\
+date – Years that the object was made\
+description – Description of an object\
+location – Where the object is being held\
+source –  Link to what repository the object came from\
+format – Description of the format of the object and what it’s saved as\
+language – Three letter abbreviation of language the object is in (und = undetermined)\
 rights – The licensing rights provided by the initial repository 
