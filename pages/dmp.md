@@ -21,7 +21,11 @@ This repository is available through GitHub with no expectation of maintenance a
 
 ## Data Formats and Dissemination
 
-All data for this collection will be disseminated through CollectionBuilder which will be viewable as a website. Objects in the format of PNGs or PDF, their metadata, and their sources will be published to the website. 
+All data for this collection will be disseminated through CollectionBuilder which will be viewable as a website. Objects in the format of PNGs or PDF, their metadata, and their sources will be published to the website.\
+| File Type | File Size |
+|---|---|
+| PNG | 70.06 MB |
+| PDF | 11.3 MB |
 
 ## Data Storage and Preservation of Access
 
