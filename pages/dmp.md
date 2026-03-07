@@ -13,7 +13,7 @@ This collection explores the practices and practitioners of women’s medicine i
 
 ## Expected Data
 
-The expected data is comprised of 17 PNGs of books, manuscripts, sculptures, and illustrations totaling 70.06 MB. There is one exception, a PDF, measuring at 11.3 MB. PNGs and the PDF are stored on GitHub as well as on a personal computer. Data also includes a Google Sheets CSV file that has been imported to GitHub. All data is displayed on CollectionBuilder.
+The expected data is comprised of 18 PNGs of books, manuscripts, sculptures, and illustrations totaling 70.1 MB. There is one exception, a PDF, measuring at 11.3 MB. PNGs and the PDF are stored on GitHub as well as on a personal computer. Data also includes a Google Sheets CSV file that has been imported to GitHub. All data is displayed on CollectionBuilder.
 
 ## Period of Data Retention
 
@@ -24,7 +24,7 @@ This repository is available through GitHub with no expectation of maintenance a
 All data for this collection will be disseminated through CollectionBuilder which will be viewable as a website. Objects in the format of PNGs or PDF, their metadata, and their sources will be published to the website.\
 | File Type | File Size |
 |---|---|
-| PNG | 70.06 MB |
+| PNG | 70.1 MB |
 | PDF | 11.3 MB |
 
 ## Data Storage and Preservation of Access
